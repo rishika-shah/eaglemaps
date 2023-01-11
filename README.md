@@ -4,7 +4,8 @@ An website designed to provide a streamlined experience in navigating Emory Univ
 Designed with GoogleMapsAPI, and other API's associated with such, i.e. PlacesAPI, this website picks the most optimal routes from one place to another on Emory's campus.
 
 The current deployed website is [here](https://eaglemaps.link). 
-Watch a walkthrough of the website and how to use the different features [here](https://youtu.be/L8X4ckg6ako).
+
+Watch a walkthrough of the website and how to use the different features [here](https://youtu.be/L8X4ckg6ako), and for further description of functionalities read `userdoc.pdf`.
 
 ## Documentation of app:
 
